@@ -1,12 +1,12 @@
 <?php
 
-namespace Habibi\App\Models;
+namespace Habibi\Models;
 
-use Habibi\App\Interfaces\BaseModelInterface;
-use Habibi\App\Interfaces\FiltersInterface;
+use Habibi\Interfaces\BaseModelInterface;
+use Habibi\Interfaces\FiltersInterface;
 use Illuminate\Support\Facades\DB;
-use Habibi\App\Traits\HasIdTrait;
-use Habibi\App\Traits\MagicMethodsTrait;
+use Habibi\Traits\HasIdTrait;
+use Habibi\Traits\MagicMethodsTrait;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

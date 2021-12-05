@@ -1,6 +1,6 @@
 <?php
 
-namespace Habibi\App\Traits;
+namespace Habibi\Traits;
 
 use ReflectionException;
 

@@ -1,8 +1,7 @@
 <?php
 
-namespace App\Filters\User;
+namespace Habibi\Filters;
 
-use App\Filters\Filters;
 use Illuminate\Database\Eloquent\Builder;
 
 class UserFilter extends Filters

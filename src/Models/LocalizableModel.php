@@ -1,8 +1,8 @@
 <?php
 
-namespace Habibi\App\Models;
+namespace Habibi\Models;
 
-use Habibi\App\Traits\MagicMethodsTrait;
+use Habibi\Traits\MagicMethodsTrait;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Str;

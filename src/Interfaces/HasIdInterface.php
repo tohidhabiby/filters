@@ -1,6 +1,6 @@
 <?php
 
-namespace Habibi\App\Interfaces;
+namespace Habibi\Interfaces;
 
 use Illuminate\Database\Eloquent\Builder;
 

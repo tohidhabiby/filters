@@ -2,9 +2,9 @@
 
 namespace Habibi\Filters;
 
-use Habibi\App\Interfaces\FiltersInterface;
-use Habibi\App\Models\BaseModel;
-use Habibi\App\Models\LocalizableModel;
+use Habibi\Interfaces\FiltersInterface;
+use Habibi\Models\BaseModel;
+use Habibi\Models\LocalizableModel;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
