@@ -1,0 +1,20 @@
+{
+    "name": "habibi/filters",
+    "description": "An excellent ACL package on laravel restful API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Habibi",
+            "email": "tohidhabiby@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Habibi\\Filters\\": "src/Filters/",
+            "Habibi\\Interfaces\\": "src/Interfaces/",
+            "Habibi\\Models\\": "src/Models/",
+            "Habibi\\Traits\\": "src/Traits/"
+        }
+    }
+}
