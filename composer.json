@@ -1,6 +1,6 @@
 {
     "name": "habibi/filters",
-    "description": "This package help you to create custom search on index method of controllers easily.",
+    "description": "This package helps you to create custom search on index method of controllers easily.",
     "type": "library",
     "license": "MIT",
     "authors": [
